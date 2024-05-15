@@ -12,4 +12,6 @@ As stated aove, the main purpose is to provide simple exaples for Git training d
 
 ## Demployment
 
+This is a simple web project, deployment can be on any web server or even local file system.
+
 ## How To Contribute
