@@ -9,6 +9,8 @@
 
 # THANKS
 
+	To absoloutly nobody
+
     <name>
 
 # TECHNOLOGY COLOPHON
