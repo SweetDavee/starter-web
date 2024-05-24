@@ -21,4 +21,4 @@ Please fork this repository and then issu Pull Request for review
 
 ### Copyright
 
-2024 Git.Trainingg
+2024 Git.Trainingg. All right reserved
